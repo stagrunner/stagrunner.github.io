@@ -1,7 +1,7 @@
 site: Made Jekyll Theme
 
-url: 
-baseurl: 
+url: https://stagrunner.github.io
+baseurl:
 
 collections:
   pages:
@@ -50,7 +50,7 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-  
+
 sass:
   style: compressed
 
